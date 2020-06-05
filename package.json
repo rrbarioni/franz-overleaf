@@ -1,0 +1,13 @@
+{
+  "id": "overleaf",
+  "name": "Overleaf",
+  "version": "1.0.0",
+  "description": "Overleaf",
+  "main": "index.js",
+  "author": "Ricardo Barioni <rrbarioni@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.overleaf.com/",
+    "hasNotificationSound": false
+  }
+}
