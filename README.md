@@ -1,6 +1,6 @@
 # Overleaf for Franz
 
-An unofficial Franz recipe (plugin) for [Overleaf](https://www.overleaf.com/).
+An unofficial [Overleaf](https://www.overleaf.com/) recipe (plugin) for [Franz](https://meetfranz.com/).
 
 ## Installing
 
